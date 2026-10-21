@@ -1,0 +1,17 @@
+buttonskins.png
+size:256,128
+repeat:none
+SliderBackground
+bounds:100,90,32,32
+split:1,1,5,3
+pad:1,1,5,3
+SliderButton
+bounds:100,57,8,31
+button-big
+bounds:2,28,96,94
+split:32,32,30,32
+pad:18,18,16,17
+button-small
+bounds:2,2,94,24
+split:4,4,6,4
+pad:6,6,8,6
